@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Fraser Lab</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="760" border="0">
+  <tr>
+    <td align="center">
+      <div id = "top"></div>
+    </td>
+  </tr>
+     <tr>
+    <td id="navbar"><ul>
+      <li><a href="index.html">HOME</a></li>
+      <li><a href="vision.html">VISION</a></li>
+      <li><a href="research.html">RESEARCH</a></li>
+      <li><a href="publications.html">PUBLICATIONS</a></li>
+      <li><a href="people.html">PEOPLE</a></li>
+      <li><a href="positions.html">POSITIONS</a></li>
+      <li><a href="news.html">NEWS</a></li>
+    </ul></td>
+  </tr>
+  <tr>
+    <td><!-- TemplateBeginEditable name="picturebar" -->
+      <p align="right"><img src="../images/credits-image.jpg" alt="credits art" width="267" height="200"/></p>
+    <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td class="home" id="breadcrumb"><!-- TemplateBeginEditable name="title" -->TITLE<!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+    <td id="content"><!-- TemplateBeginEditable name="body" -->
+      <p><strong>EE</strong></p>
+      <p>EE</p>
+      <p>&nbsp;</p>
+      <p><strong>DD</strong></p>
+      <p>DD</p>
+      <p>&nbsp;</p>
+      <p><strong>CC</strong></p>
+      <p>CC</p>
+      <p>&nbsp;</p>
+      <p><strong>BB</strong></p>
+      <p>BB</p>
+      <p>&nbsp;</p>
+      <p><strong>AA</strong></p>
+      <p>AA</p>
+      <!-- TemplateEndEditable --></td>
+  </tr>
+  <tr>
+ <td id="footer">
+    <ul>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="http://www.virginia.edu/">University of Virginia</a></li>
+    <li><a href="http://www.virginia.edu/chem/index.html">Chemistry </a></li>
+    <li>Last modified:<!--#config timefmt="%D" -->
+    <!--#echo var="LAST_MODIFIED" --></li>
+    <li>Copyright &copy;
+    <!--#config timefmt="%Y" -->
+    <!--#echo var="DATE_LOCAL" --></li>
+    </ul> </td>
+</tr>
+</table>
+</body>
+</html>
